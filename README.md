@@ -1,6 +1,6 @@
 # Opportunities-in-Tech
 
-1. Google 4 Doodle
+1. Doodle 4 Google
 
 2. Hacktoberfest
 
