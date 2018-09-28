@@ -2,11 +2,11 @@
 
 Following is the list of available opportunities in tech: 
 
-1. Doodle 4 Google
+1. [Doodle 4 Google](https://doodles.google.co.in/d4g)
 
-2. Hacktoberfest
+2. [Hacktoberfest](https://hacktoberfest.digitalocean.com)
 
-3. Google Science Fair
+3. [Google Science Fair](https://www.googlesciencefair.com)
 
 ### CONTRIBUTE
 
