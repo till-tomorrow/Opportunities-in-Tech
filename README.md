@@ -1,1 +1,1 @@
-# Oppotunities-in-Tech
+# Opportunities-in-Tech
