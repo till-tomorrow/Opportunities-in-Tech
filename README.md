@@ -11,4 +11,4 @@ Following is the list of available opportunities in tech:
 ### CONTRIBUTE
 
 Feel free to open an issue (or send a Pull Request) for populating the list. Any form contribution(s) is/are highly appreciated!
-Let's democratize learning!
+Let's democratize opportunities in tech!
