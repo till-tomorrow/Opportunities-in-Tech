@@ -8,7 +8,7 @@ Following is the list of available opportunities in tech:
 
 3. [Google Science Fair](https://www.googlesciencefair.com)
 
-4. [Microsoft Intership for Students] (https://careers.microsoft.com/us/en/job/475700/Internship-opportunities-for-students-recent-graduates-Software-Engineering)
+4. [Microsoft Intership for Students](https://careers.microsoft.com/us/en/job/475700/Internship-opportunities-for-students-recent-graduates-Software-Engineering)
 
 ### CONTRIBUTE
 
