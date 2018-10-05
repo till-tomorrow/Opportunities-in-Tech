@@ -10,6 +10,8 @@ Following is the list of available opportunities in tech:
 
 4. [Microsoft Internship for Engineering Students](https://careers.microsoft.com/us/en/job/475700/Internship-opportunities-for-students-recent-graduates-Software-Engineering)
 
+5. [Visa Sponsored Jobs, listed on Stackoverflow](https://stackoverflow.com/jobs?t=true)
+
 ### CONTRIBUTE
 
 Feel free to open an issue (or send a Pull Request) for populating the list. Any form contribution(s) is/are highly appreciated!
