@@ -12,7 +12,9 @@ Following is the list of available opportunities in tech:
 
 5. [Visa Sponsored Jobs, listed on Stackoverflow](https://stackoverflow.com/jobs?t=true)
 
-6. [Twitter University Application for 2019 Internships and Full-Time Roles](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)
+6. [Computer Science Degree Hub internship opportunities](https://www.computersciencedegreehub.com/internships-fortune-500-companies/)
+
+7. [Twitter University Application for 2019 Internships and Full-Time Roles](https://careers.twitter.com/en/work-for-twitter/201808/2019-university-application-full-time-internship.html)
 
 ### CONTRIBUTE
 
